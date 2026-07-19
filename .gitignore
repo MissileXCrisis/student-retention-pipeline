@@ -1,0 +1,12 @@
+# Data security shield
+data/
+*.csv
+*.xlsx
+*.json
+
+# Python/Conda environment items
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.DS_Store
