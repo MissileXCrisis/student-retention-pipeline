@@ -5,7 +5,7 @@ data/
 *.json
 
 #Workspace 
-.code-workspace
+*.code-workspace
 
 # Python/Conda environment items
 __pycache__/
