@@ -4,6 +4,9 @@ data/
 *.xlsx
 *.json
 
+#Workspace 
+.code-workspace
+
 # Python/Conda environment items
 __pycache__/
 *.pyc
